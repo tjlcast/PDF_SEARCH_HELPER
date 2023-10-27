@@ -1,0 +1,6 @@
+.idea
+.env
+*.pdf
+
+vector_store/
+uploads/
